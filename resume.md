@@ -4,6 +4,7 @@
 <div align="right">Phone Number</div>
 
 # Tre Jordan Gelacio
+---
 
 ### EDUCATION
 ---
