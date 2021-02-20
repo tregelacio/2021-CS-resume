@@ -16,6 +16,8 @@ B.S. in Computer Science
 
 Computer Vision, Concurrent Programming, Machine-Level and Systems Programming, AI for Games, Data Networks, AI Programming, Operating Systems, Database Systems, Algorithms, Program Structure
 
+---
+
 ### SKILLS
 
 **Languages:**
@@ -28,6 +30,8 @@ Computer Vision, Concurrent Programming, Machine-Level and Systems Programming, 
 
 **Other:**
 
+---
+
 ### EXPERIENCE
 
 <div align="right">Aug 2019-Dec 2019</div>
@@ -35,5 +39,7 @@ Computer Vision, Concurrent Programming, Machine-Level and Systems Programming, 
 **Teachers Assistant for ICS111 Class**
 
 **HAAC**
+
+---
 
 ### PROJECTS
