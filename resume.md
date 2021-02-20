@@ -1,14 +1,14 @@
 # Tre Jordan Gelacio
 
-<div style="text-align: right">Email</div>
-<div style="text-align: right">LinkedIn</div>
-<div style="text-align: right">Github</div>
-<div style="text-align: right">Phone Number</div>
-
-<style>Right{text-align: right}</style>
+<div align="right">Email</div>
+<div align="right">LinkedIn</div>
+<div align="right">Github</div>
+<div align="right">Phone Number</div>
 
 EDUCATION
 ---
+**University of Hawaii at Manoa** <div align="right">Aug 2016-Dec 2020</div>
+B.S. in Computer Science
 
 SKILLS
 ---
