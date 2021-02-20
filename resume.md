@@ -5,7 +5,7 @@
 
 # Tre Jordan Gelacio
 
-###EDUCATION
+### EDUCATION
 ---
 **University of Hawaii at Manoa** <div align="right">Aug 2016-Dec 2020</div>
 B.S. in Computer Science
