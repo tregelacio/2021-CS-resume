@@ -1,6 +1,8 @@
 <div align="right">Email</div>
 <div align="right">LinkedIn</div>
-![alt text](https://github.com/tregelacio/2021-CS-resume/blob/main/GitHub_Logo.png "Github Logo") 
+
+![alt text](https://github.com/tregelacio/2021-CS-resume/blob/main/GitHub_Logo.png "Github Logo")
+
 <div align="right">github.com/tregelacio</div>
 <div align="right">Phone Number</div>
 
