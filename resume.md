@@ -1,7 +1,18 @@
-<div align="right">tre.gelacio@gmail.com</div>
-<div align="right">linkedin.com/in/tre-jordan-gelacio</div>
-<div align="right">github.com/tregelacio</div>
-<div align="right">808-782-1234</div>
+<img align="right" src="/email_icon.png" alt="EMAIL"
+	title="Email" width="32" height="32" />
+  <div align="right">tre.gelacio@gmail.com</div>
+  
+<img align="right" src="/linkedin_logo.png" alt="LINKEDIN"
+	title="LinkedIn" width="32" height="32" />
+  <div align="right">linkedin.com/in/tre-jordan-gelacio</div>
+
+<img align="right" src="/GitHub-Mark-64px.png" alt="GH"
+	title="Github" width="32" height="32" />
+  <div align="right">github.com/tregelacio</div>
+  
+<img align="right" src="/phone_icon.png" alt="PN"
+	title="PhoneNumber" width="32" height="32" />
+  <div align="right">808-782-1234</div>
 
 # Tre Jordan Gelacio
 
@@ -65,13 +76,3 @@ Group Project
 
 **IN THE WORKS**
 Solo Project
-
-
-![alt text][github]
-
-<div align="right">github.com/tregelacio</div>
-[github]: https://github.com/tregelacio/2021-CS-resume/blob/main/GitHub-Mark-64px.png "Github"
-
-<img align="right" src="/GitHub-Mark-64px.png" alt="GH"
-	title="Github" width="64" height="64" />
-  <div align="right">github.com/tregelacio</div>
