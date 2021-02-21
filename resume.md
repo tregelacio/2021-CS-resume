@@ -1,7 +1,7 @@
-<div align="right">Email</div>
-<div align="right">LinkedIn</div>
+<div align="right">tre.gelacio@gmail.com</div>
+<div align="right">linkedin.com/in/tre-jordan-gelacio</div>
 <div align="right">github.com/tregelacio</div>
-<div align="right">Phone Number</div>
+<div align="right">808-782-1234</div>
 
 # Tre Jordan Gelacio
 
