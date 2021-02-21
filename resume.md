@@ -2,15 +2,15 @@
 	title="Email" width="32" height="32" />
   <div align="right">tre.gelacio@gmail.com</div>
   
-<a href="linkedin.com/in/tre-jordan-gelacio">
 <img align="right" src="/linkedin_logo.png" alt="LINKEDIN"
 	title="LinkedIn" width="32" height="32" />
+<a href="linkedin.com/in/tre-jordan-gelacio">
   <div align="right">linkedin.com/in/tre-jordan-gelacio</div>
 </a>
 
-<a href="github.com/tregelacio">
 <img align="right" src="/GitHub-Mark-64px.png" alt="GH"
 	title="Github" width="32" height="32" />
+<a href="github.com/tregelacio">
   <div align="right">github.com/tregelacio</div>
 </a>
   
