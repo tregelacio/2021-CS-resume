@@ -21,11 +21,13 @@ Computer Vision, Concurrent Programming, Machine-Level and Systems Programming, 
 ### SKILLS
 
 **Languages:**
-Java, C, C++, Python, Perl, Lisp
+Java, C, C++, Python, Perl, Lisp, Prolog
 
 **Web Development:**
+HTML, CSS, JavaScript, Express.js, React.js, Node.js
 
 **Databases:**
+MySQL, MongoDB
 
 **Cloud:**
 
