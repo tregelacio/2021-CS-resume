@@ -60,7 +60,9 @@ Footaction in Waikiki
 
 ### PROJECTS
 
-**SCUBA**
-
 **BZFLAG**
+Group Project
+
+**IN THE WORKS**
+Solo Project
 
