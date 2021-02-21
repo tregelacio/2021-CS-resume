@@ -72,6 +72,6 @@ Solo Project
 <div align="right">github.com/tregelacio</div>
 [github]: https://github.com/tregelacio/2021-CS-resume/blob/main/GitHub-Mark-64px.png "Github"
 
-<img align="right" src="/2021-CS-resume/blob/main/GitHub-Mark-64px.png" alt="GH"
+<img align="right" src="/GitHub-Mark-64px.png" alt="GH"
 	title="Github" width="64" height="64" />
   <div align="right">github.com/tregelacio</div>
