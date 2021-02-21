@@ -21,6 +21,7 @@ Computer Vision, Concurrent Programming, Machine-Level and Systems Programming, 
 ### SKILLS
 
 **Languages:**
+Java, C, C++, Python, Perl, Lisp
 
 **Web Development:**
 
@@ -37,6 +38,8 @@ Computer Vision, Concurrent Programming, Machine-Level and Systems Programming, 
 <div align="right">Aug 2019-Dec 2019</div>
 
 **Teachers Assistant for ICS111 Class**
+
+<div align="right">Oct 2019</div>
 
 **HAAC**
 
