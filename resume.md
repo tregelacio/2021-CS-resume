@@ -66,3 +66,7 @@ Group Project
 **IN THE WORKS**
 Solo Project
 
+
+![alt text][github]
+
+[github]: https://github.com/tregelacio/2021-CS-resume/blob/main/GitHub-Mark-64px.png "Github"
