@@ -1,6 +1,6 @@
 <div align="right">Email</div>
 <div align="right">LinkedIn</div>
-<div align="right">Github</div>
+![alt text](https://github.com/tregelacio/2021-CS-resume/blob/main/GitHub_Logo.png "Github Logo") <div align="right">github.com/tregelacio</div>
 <div align="right">Phone Number</div>
 
 # Tre Jordan Gelacio
