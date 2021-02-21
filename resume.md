@@ -8,7 +8,7 @@
   <div align="right">linkedin.com/in/tre-jordan-gelacio</div>
 </a>
 
-<img align="right" src="/GitHub-Mark-Light-64px.png" alt="GH"
+<img align="right" src="/github-logo-64px.png" alt="GH"
 	title="Github" width="32" height="32" />
 <a href="github.com/tregelacio">
   <div align="right">github.com/tregelacio</div>
