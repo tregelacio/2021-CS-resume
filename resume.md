@@ -7,21 +7,21 @@
 
 ### EDUCATION
 
-<div align="right">Aug 2016-Dec 2020</div>
+<div align="right">Aug 2016 - Dec 2020</div>
 
 **University of Hawaii at Manoa**
 B.S. in Computer Science
 
 **Courses**
 
-Computer Vision, Concurrent Programming, Machine-Level and Systems Programming, AI for Games, Data Networks, AI Programming, Operating Systems, Database Systems, Algorithms, Program Structure
+Computer Vision, Concurrent Programming, Machine-Level and Systems Programming, Data Networks, AI Programming, AI for Games, Operating Systems, Database Systems, Algorithms, Program Structure, Project Management
 
 ---
 
 ### SKILLS
 
 **Languages:**
-Java, C, C++, Python, Perl, Lisp, Prolog
+Java, C, C++, Python, Perl, Lisp, Prolog, C#
 
 **Web Development:**
 HTML, CSS, JavaScript, Express.js, React.js, Node.js
@@ -29,22 +29,38 @@ HTML, CSS, JavaScript, Express.js, React.js, Node.js
 **Databases:**
 MySQL, MongoDB
 
-**Cloud:**
-
 **Other:**
+Machine Learning, Git, Concurrency, JavaFX
+
+**Toolsets:**
+MacOS, Github, g++/gcc, Xcode, IntelliJ, Visual Studio Code, Eclipse
 
 ---
 
 ### EXPERIENCE
 
-<div align="right">Aug 2019-Dec 2019</div>
+<div align="right">Aug 2019 - Dec 2019</div>
 
-**Teachers Assistant for ICS111 Class**
+**Teaching Assistant for ICS111 Class**
+UH Manoa
 
-<div align="right">Oct 2019</div>
+* Assisted students learning Java for the first time.
+* Taught certain coding topics such as 'if statements' and 'arrays'.
+* Organized the lessons accordingly.
 
-**HAAC**
+<div align="right">Jan 2017 - Present</div>
+
+**Salesperson**
+Footaction in Waikiki
+
+* Delivered premium customer service and did what was best for the customer to leave more than satisfied.
+* Performed additional tasks such as adjusting the stock room, assisting the manager on duty and cleaning.
 
 ---
 
 ### PROJECTS
+
+**SCUBA**
+
+**BZFLAG**
+
