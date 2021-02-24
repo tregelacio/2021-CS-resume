@@ -21,9 +21,11 @@
 **University of Hawaii at Manoa**
 B.S. in Computer Science
 
-**Courses**
+**Former Club Member of...**
 
-Computer Vision, Concurrent Programming, Machine-Level and Systems Programming, Data Networks, AI Programming, AI for Games, Operating Systems, Database Systems, Algorithms, Program Structure, Project Management
+* ACM
+* GreyHats
+* 
 
 ---
 
