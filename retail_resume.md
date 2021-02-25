@@ -25,7 +25,7 @@ B.S. in Computer Science
 
 * ACM
 * GreyHats
-* 
+
 
 ---
 
@@ -38,6 +38,7 @@ B.S. in Computer Science
 <div align="right">Aug 2019 - Dec 2019</div>
 
 **Teaching Assistant for ICS111 Class**
+
 UH Manoa
 
 * Assisted students learning Java for the first time.
@@ -47,6 +48,7 @@ UH Manoa
 <div align="right">Jan 2017 - Present</div>
 
 **Salesperson**
+
 Footaction in Waikiki
 
 * Delivered premium customer service and did what was best for the customer to leave more than satisfied.
