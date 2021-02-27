@@ -19,6 +19,7 @@
 <div align="right">Aug 2016 - Dec 2020</div>
 
 **University of Hawaii at Manoa**
+
 B.S. in Computer Science
 
 **Former Club Member of...**
@@ -29,6 +30,9 @@ B.S. in Computer Science
 
 ---
 
+### SKILLS
+
+* 
 
 
 ---
